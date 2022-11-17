@@ -1,0 +1,18 @@
+{
+    "name": "meanback",
+    "version": "1.0.0",
+    "description": "tutorial for a simple RESTful API with Node.js and Express.js",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Bacely YoroBi",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/yojedesign/ynovapi.git"
+    },
+    "homepage": "https://github.com/yojedesign/ynovapi.git",
+    "dependencies": {
+      "express": "^4.17.3"
+    }
+  }
